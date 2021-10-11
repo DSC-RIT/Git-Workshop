@@ -92,5 +92,6 @@ Now, submit the pull request
 <p align='center'>
   <img src='https://user-images.githubusercontent.com/55043035/136821659-ffbd5d96-2fab-48ad-96c3-2b8ce3ac1e65.png' />
  </p>
+
 # Finishing Up
-Congratulations! 🙌🏼👏🏼👏🏼 you've done it. You just learned how to use Git. 
+Congratulations! 🙌🏼👏🏼👏🏼 you've done it. You just learnt how to use Git. 
