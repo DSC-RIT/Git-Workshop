@@ -1,4 +1,7 @@
 # Google Developer Student Club's Git Workshop
+
+_Note: If you've missed the workshop, or would like a recap, [click here for a good resource](https://sr-justsomedevstuff.hashnode.dev/the-abcs-of-git)._
+
 This workshop is aimed at equipping beginners with the fundamentals of understanding and using Git, since it’s a tool that you’ll almost definitely have to use as a developer.
 
 This month also happens to present the greatest opportunity for beginners in open source - Hacktoberfest. And here too, Git is a necessity.
